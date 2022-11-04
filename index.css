@@ -3,4 +3,6 @@ img.btn{
 	image-rendering: -webkit-crisp-edges;
 	image-rendering: -moz-crisp-edges;
 	-ms-interpolation-mode: nearest-neighbor;
+	heigh:51;
+	width:120;
 }
